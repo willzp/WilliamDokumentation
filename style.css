@@ -1,0 +1,40 @@
+*{
+    margin: 10px;
+   
+}
+#hej{
+    border-color: cadetblue;
+    border-style:solid;
+    text-align: center;
+    background-color: cadetblue;
+}
+#hej2{
+    border-color: cadetblue;
+    border-style:solid;
+    text-align: center;
+    background-color: cadetblue;
+}
+#hej3{
+    border-color: cadetblue;
+    border-style:solid;
+    text-align: center;
+    background-color: cadetblue;
+}
+#hej4{
+    border-color: cadetblue;
+    border-style:solid;
+    text-align: center;
+    background-color: cadetblue;
+}
+body{
+    border-color: cadetblue;
+    background-color: rgb(29, 73, 75);
+    text-align: center;
+}
+h1{
+    color: cadetblue;
+}
+
+
+
+
